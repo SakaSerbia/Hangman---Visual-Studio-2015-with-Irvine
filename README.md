@@ -9,7 +9,7 @@ To start the game you need the following programs:
 
 # Modification and defense project
 Modification of the project which was requested from me on the oral defense, was simpy restarting the game when you press 
-SPACE on the keyboard. It also represents the version v1.1 of the game.
+SPACE on the keyboard. It also represents the version v1.0 of the game.
 
 # The report
 The report for this project was writen in Serbian and can be downloaded from [here](https://goo.gl/Z1CrPI).
