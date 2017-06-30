@@ -12,7 +12,7 @@ Modification of the project which was requested from me on the oral defense, was
 SPACE on the keyboard. It also represents the version v1.0 of the game.
 
 # The report
-The report for this project was writen in Serbian and can be downloaded from [here](https://goo.gl/Z1CrPI).
+The report for this project was writen in Serbian and can be download from [here](https://goo.gl/Z1CrPI).
 
 # Acknowledgment
 I dedicate this game to [rkhb](https://stackoverflow.com/users/3512216/rkhb), who had plenty of patience to answer all my questions regarding assembler, Irvine and MASM. Thank you from the heart.
